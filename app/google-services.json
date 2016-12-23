@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "553988598575",
+    "firebase_url": "https://chatroom-3c209.firebaseio.com",
+    "project_id": "chatroom-3c209",
+    "storage_bucket": "chatroom-3c209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553988598575:android:f39d20527bfc3c9f",
+        "android_client_info": {
+          "package_name": "com.anudeesh.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553988598575-vg1if6k508uon6ll48ro805ga68ds1go.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anudeesh.chatapp",
+            "certificate_hash": "6F9B7D0ACA5BEDE4AFD22FEAA39394C7F4680D44"
+          }
+        },
+        {
+          "client_id": "553988598575-qd2j03v78i0e361oolsqt2mj8hd3heqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq1k80bwPTCVnbrbDuPztuwrLOffA-s8c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553988598575-qd2j03v78i0e361oolsqt2mj8hd3heqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

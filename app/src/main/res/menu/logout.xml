@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--xmlns:my_menu_tutorial_app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.anudeesh.chatapp.UserActivity"-->
+    <item
+        android:id="@+id/logout_option"
+        android:title="@string/logout_option" />
+    <!--<item android:id="@+id/item_one"
+        android:icon="@drawable/menu_icon"
+        android:orderInCategory="l01"
+        android:title="Item One"
+        my_menu_tutorial_app:showAsAction="always">
+    &lt;!&ndash;sub-menu&ndash;&gt;
+    <menu>
+        <item android:id="@+id/sub_one"
+            android:title="Sub-menu item one" />
+        <item android:id="@+id/sub_two"
+            android:title="Sub-menu item two" />
+    </menu>-->
+</menu>

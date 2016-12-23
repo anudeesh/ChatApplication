@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:enabled="false">
+
+    <!--<Button
+        android:id="@+id/action_bar_inbox"
+        style="@style/ActionBarButtonOffWhite" />-->
+
+    <Button
+        android:id="@+id/action_bar_users"
+        style="@style/ActionBarButtonWhite"
+        android:layout_width="111dp"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/action_bar_profile"
+        style="@style/ActionBarButtonOffWhite"
+        android:layout_width="118dp"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/action_bar_logout"
+        android:src="@drawable/logout1"
+        android:layout_marginLeft="20dp" />
+
+    <!--<Button
+        android:id="@+id/action_bar_locations"
+        style="@style/ActionBarButtonOffWhite" />-->
+
+
+</LinearLayout>

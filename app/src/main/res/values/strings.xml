@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="facebook_app_id">277940699269201</string>
+    <string name="email_login">Login with Email</string>
+    <string name="firebase_url">https://chatroom-3c209.firebaseio.com/</string>
+    <string name="loading">Loading…</string>
+    <string name="email_hint">Email</string>
+    <string name="pwd_hint">Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_signup">Sign Up</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="pwd_label">Choose Password</string>
+    <string name="repeat_pwd_label">Repeat Password</string>
+    <string name="fname_label">First Name</string>
+    <string name="lname_label">Last Name</string>
+    <string name="gender_label">Gender</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="logout_option">Logout</string>
+    <string name="save_button">Save</string>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>NA</item>
+    </string-array>
+</resources>
